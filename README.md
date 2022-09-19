@@ -6,3 +6,5 @@ Os números de Fibonacci são, portanto, os números que compõem a seguinte seq
 
 0,1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, ... .
 É importante destacar que a sequência de Fibonacci é infinita. Portanto, o ideal é que você defina um valor que tenha como objetivo e, ao alcançar esse objetivo, você decida uma nova meta para alcançar. </p>
+<img width="600" src="https://miro.medium.com/max/700/1*GJH67oo5_QK9_P63zYAcZg.png"/>
+<img src="https://atitudereflexiva.files.wordpress.com/2016/11/ehwk9.png"/>
